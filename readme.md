@@ -107,7 +107,7 @@ O código fonte está organizado em camadas:
 <a href="https://www.youtube.com/watch?v=HvTNvt4FXKE">Link para o vídeo de apresentação</a>
 
 <h2>Link do github</h2>
-<a href="https://youtu.be/Xg01iNC5zSs?si=pBmGElipfNv43P2c">Link para o vídeo de apresentação</a>
+<a href="https://github.com/HerbertSsousa/GS_EnergiaSustentavel">Link para o github</a>
 
 
 ## 🛠 Testes
